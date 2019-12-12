@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: url("https://www.toptal.com/designers/subtlepatterns/patterns/email-pattern.png");
+}
+
+h1 {
+  text-align: center;
+  margin: 20px;
+  color: #f36c6c;
+}

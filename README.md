@@ -1,2 +1,0 @@
-# ReactWorkshop
-Created with CodeSandbox
